@@ -1,8 +1,11 @@
 const a = 5; 
 const b = 2;
-const myNickname = "Luidy";
+let myNickname = "Luidy";
 
 console.log(a + b);
 console.log(a * b);
 console.log(a / b);
+console.log(myNickname);
+
+myNickname = "luidy"
 console.log(myNickname);
